@@ -24,7 +24,7 @@ Whether it’s logic and emotion, work and play, or order and chaos — I try to
 
 I’d love to ramble about myself forever, but I’ll keep it short — I know the DEVSOC gods have many candidates to bless (or roast).
 
-Name’s Krish. I recently hit the big 1-9 (UNSW status: still pending legendary rank).  
+Name’s Krish. I recently hit the big 1-9 (unc status) 
 I’m currently majoring in Computer Science, which means I spend my days wrestling with bugs and pretending I understand recursion.
 
 Now, I live in contradiction — and that’s where the “opposites attract” theme felt just right.
