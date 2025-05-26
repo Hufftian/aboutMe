@@ -7,7 +7,7 @@ This is my personal github site.
 <details>
 <summary><strong>🎨 Introduction: </strong></summary>
 
-I relate to this theme because I’ve always felt like my personality exists in contrast.  
+I relate to theme "Opposites Attract" because I’ve always felt like my personality exists in contrast.  
 Sometimes I crave my own quiet time, and other times I’m at my best around loud, spontaneous idiots (my friends).
 
 This page reflects that duality — mixing structure with creativity, coding with storytelling, and precision with curiosity.
